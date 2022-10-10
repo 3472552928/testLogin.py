@@ -1,0 +1,40 @@
+2022-07-12 10:17:00.579 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.593 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.659 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.679 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.692 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.711 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.802 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.845 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.874 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:00.887 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:17:04.280 wxauto.py[48] SplitMessage -> 2022-07-12 10:19:02.564 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:02.638 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:02.762 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:06.404 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:06.466 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:06.574 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:19:14.239 wxauto.py[193] roll_to -> 2022-07-12 10:20:11.772 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:11.839 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:11.957 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:15.597 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:15.711 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:15.751 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:16.042 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:16.105 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:16.213 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:20:24.185 wxauto.py[193] roll_to -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: '文件传输助手', ControlType: ListItemControl}
+2022-07-12 10:20:25.340 wxauto.py[193] roll_to -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: '文件传输助手', ControlType: ListItemControl}
+2022-07-12 10:21:53.068 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:21:56.707 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:21:56.746 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:21:57.063 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:21:57.180 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:22:04.580 wxauto.py[193] roll_to -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: '文件传输助手', ControlType: ListItemControl}
+2022-07-12 10:26:05.130 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:26:05.387 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:26:05.515 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:26:13.332 wxauto.py[193] roll_to -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Name: '文件传输助手', ControlType: ListItemControl}
+2022-07-12 10:27:27.934 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:27:28.151 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2022-07-12 10:27:28.263 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
