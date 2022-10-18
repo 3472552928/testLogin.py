@@ -3,11 +3,15 @@ import configparser
 import yaml
 import csv
 cf = configparser.ConfigParser()
-# os.path.abspath()  = 获取当前路径
+
+# 获取当前路径
+# os.path.abspath(__file__)
 # path = os.path.abspath(__file__)
-    # path1 = os.path.realpath(__file__)
-# os.path.dirname()  = 获取上一层目录
-# \\path2 = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# path1 = os.path.realpath(__file__)
+#
+# # 获取上一层目录
+# os.path.dirname(__file__)
+# path2 = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # print(path)
 # print(path1)
 # print(path2)

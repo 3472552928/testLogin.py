@@ -1,7 +1,6 @@
 import pytest
 from api.project.add import OpmsAdd
 from com.csvRead import ReadCsv
-
 para = ReadCsv().readALL(start=1,end=30)
 
 

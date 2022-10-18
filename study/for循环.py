@@ -45,14 +45,14 @@ for i in lis:
 #         print("我要结束了！！！")
 #         break
 #         print("我是break后面的print")
-#
+
 
 # 求1+....+10的和
 # num = 1
 # sum = 0
 # while num<=100:
 #     sum += num
-#     num +=1
+#     num += 1
 #     print(num)
 # print(sum)
 
