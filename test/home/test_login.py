@@ -1,5 +1,6 @@
 import pytest
 import re
+import allure
 from api.home.login import Opmslogin
 from com.redTxtconfig import getYaml
 
@@ -26,6 +27,11 @@ def testlogin_1():
 @pytest.mark.parametrize("username,code",[("",0),
                                            ("libai",1),
                                            ("libai123",0)])
+
+@allure.epic("opms项目")
+@allure.feature("登录模块")
+@allure.story("登录测试")
+@allure.step("异常场景测试")
 def testlogin_3(username,code):
     res = Opmslogin().login(username=username)
     re_code = res.json()["code"]
@@ -39,3 +45,4 @@ def testlogin_2(username,password):
     re_code = (res.status_code)
     print(res.text)
     assert re_code == 200
+

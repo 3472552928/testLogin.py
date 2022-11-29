@@ -14,5 +14,5 @@ dt = time.mktime(dt1)
 
 # 打印日期、日期+时间的标准格式
 dt = time.strftime("%Y/%m/%d %H:%M:%S")
-dt = time.strftime("%Y/%m/%d %X")
+dt1 = time.strftime("%Y/%m/%d %X")
 print(dt)

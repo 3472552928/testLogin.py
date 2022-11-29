@@ -10,7 +10,6 @@ def login_fixture():
 
 
 
-
 @pytest.fixture(scope="function")
 def clear_data_fix():
     # 前置清理

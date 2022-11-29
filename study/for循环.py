@@ -1,15 +1,15 @@
 # for循环
-lis = (0,1,2,3,4,5,6,7,8,9,0)
+lis = {"798"}
 for i in lis:
     print(i)
 
 # # 打印键值对
-# dic = {"name:":"zhangsan","age":20}
-# for key,value in dic.items():
-#     print(key,":",value)
+dic = {"name:":"zhangsan","age":20}
+for key,value in dic.items():
+    print(key,"",value)
 # # 打印key
-# for k in dic.keys():
-#     print(k)
+for k in dic.keys():
+    print(k)
 # for k in dic:
 #     print(k)
 #
